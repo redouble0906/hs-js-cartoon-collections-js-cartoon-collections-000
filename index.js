@@ -37,3 +37,6 @@ function findTheCheese (food) {
 	return "no cheese!";
   
 }
+
+function wordsWithB (words2) {
+  for()
